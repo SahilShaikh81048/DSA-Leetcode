@@ -1,0 +1,1 @@
+<h2>sorted-gcd-pair-queries Notes</h2><hr>[ Time taken: 2hrs 3m 37s ]
